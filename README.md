@@ -15,4 +15,4 @@ I was tasked with creating the following.
 4) ID Table that displayed characteristic per the downdown selected ID.
 ______________________________________________________________________________________
 
-Githib Deployment of HTML File [Click Here](taylorgriggs.github.io/belly-button-challenge/
+GitHub Deployment of HTML File [Click Here](http://htmlpreviewtaylorgriggs.github.io/belly-button-challenge/)
