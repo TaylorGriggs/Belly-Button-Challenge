@@ -16,3 +16,4 @@ I was tasked with creating the following.
 ______________________________________________________________________________________
 
 ## Output
+[Click Here](https://github.com/TaylorGriggs/Belly-Button-Challenge/blob/main/Graphs.png)
