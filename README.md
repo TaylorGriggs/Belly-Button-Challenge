@@ -16,6 +16,6 @@ I was tasked with creating the following.
 ______________________________________________________________________________________
 
 ## Output
-[Click Here](taylorgriggs.github.io/Belly-Button-Challenge)
+[Click Here](TaylorGriggs.github.io/Belly-Button-Challenge)
 
 ![alt text](https://github.com/TaylorGriggs/Belly-Button-Challenge/blob/main/Graphs.png)
