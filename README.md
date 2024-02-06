@@ -17,3 +17,5 @@ ________________________________________________________________________________
 
 ## Output
 [Click Here](https://github.com/TaylorGriggs/Belly-Button-Challenge/blob/main/Graphs.png)
+
+[alt text](https://github.com/TaylorGriggs/Belly-Button-Challenge/blob/main/Graphs.png)
